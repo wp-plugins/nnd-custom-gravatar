@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: Gravatar
 Requires at least: 3.0.0.1
 Tested up to: 3.4.2
-Stable tag: 1.0
+Stable tag: 2.0
 
 Allows you to add your own custom default avatar
 
@@ -17,10 +17,9 @@ Allows you to add your own custom default avatar
 
 This section describes how to install the plugin and get it working.
 
-e.g.
-
-1. Upload your customer gravatar image to the plug-in directory '/images' and name as 'nnddefgrav.png'
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Activate the plugin through the 'Plugins' menu in WordPress
+2. Enter the URL to the image you want to use for your custom Gravatar under the settings.
+3. Go to 'Discussion' and select 'Custom Gravatar'
 
 == Frequently Asked Questions ==
 
@@ -37,7 +36,13 @@ Contact me at CodeMonkey@BostonSuperBlog.com and I'll do my best to get it worki
 = 1.0 =
 First go at this...
 
+= 2.0 =
+Added the settings screen which allows you to input a URL for your Custom Gravatar
+
 == Upgrade Notice ==
 
 = 1.0 =
 Only version out there!
+
+= 2.0 =
+Added the settings screen which allows you to input a URL for your Custom Gravatar
